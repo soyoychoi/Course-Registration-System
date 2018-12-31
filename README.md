@@ -5,7 +5,7 @@ Project Explanation: Interactive and graphic course registration system, where u
 
 Motivation: The program makes it easy for users to view and interact with courses registered at a school. The program was created as a school project.
 
-Demo Screenshots: 
+https://user-images.githubusercontent.com/34804400/50555807-611af200-0c9f-11e9-85d8-f4afc0438606.gif
 
 Features: 
 - Create course
@@ -15,4 +15,3 @@ Features:
 - View full courses 
 - View available courses 
 
-Code Example (Java): 
