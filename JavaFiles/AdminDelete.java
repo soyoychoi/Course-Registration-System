@@ -1,4 +1,3 @@
-package course;
 
 import java.awt.EventQueue;
 
