@@ -89,3 +89,9 @@ This program makes use of serialization. It first reads in the csv file "MyUnive
 It lets the user make changes to the data read from the csv file and serialize it into the file "Courses.ser." 
 
 It also lets the user make changes to and serialize list of students into the file "Students.ser." 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Comments - Debugging and Troubleshooting:
+
+Any comments or advice will be appreciated.
