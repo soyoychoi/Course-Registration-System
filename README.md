@@ -95,14 +95,15 @@ Procedure:
 
 Make sure csv file is in the folder that holds the java files to execute the program properly. 
 
-1) Run //javac User.java on terminal
-2) Run //javac Course.java on terminal 
-3) Run //javac CourseRegistration.java on terminal 
-4) Run //java CourseRegistration
+Must follow these steps to execute the program properly.
+
+1) Run "javac User.java" on terminal
+2) Run "javac Course.java" on terminal 
+3) Run "javac CourseRegistration.java" on terminal 
+4) Run "java CourseRegistration"
 
 
-
-Run CourseRegistration.java file first. This is the only file with a main method. 
+CourseRegistration.java is the only file with a main method. 
 
 -------------------------------------------------------------------------------------------------------------------------
 
