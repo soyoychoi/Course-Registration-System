@@ -7,13 +7,77 @@ Project Explanation: Interactive and graphic course registration system, where u
 
 Motivation: The program makes it easy for users to view and interact with courses registered at a school. The program was created as a school project.
 
+Explanation & Demo: There are two types of users - Admin and Student. 
+
+----------------------------------------------------------ADMIN---------------------------------------------------------------
+
+Admin can create, delete, and edit courses, and register a student into a course. 
+
+Admin can sign in with the username "Admin" and password "Admin001." There is only one Admin for this system. 
+
+![](https://user-images.githubusercontent.com/34804400/50555807-611af200-0c9f-11e9-85d8-f4afc0438606.gif)
 
 
-Features: 
-- Create course
-- Delete course
-- Register into course
-- Withdraw from course
-- View full courses 
-- View available courses 
+Admin Methods:
 
+1) Creating a course - Admin: 
+
+![](https://user-images.githubusercontent.com/34804400/50555793-3cbf1580-0c9f-11e9-9e94-6117d79ce9a8.gif)
+
+
+2) Deleting a course - Admin:
+
+![](https://user-images.githubusercontent.com/34804400/50555795-48124100-0c9f-11e9-8b28-17346cd8df1a.gif)
+
+
+3) Editing a course - Admin: 
+
+![](https://user-images.githubusercontent.com/34804400/50555797-519ba900-0c9f-11e9-8a08-fad7ed523098.gif)
+
+
+4) Registering a student into a course - Admin: 
+
+![](https://user-images.githubusercontent.com/34804400/50555806-5b251100-0c9f-11e9-9713-c26f26b87630.gif)
+
+
+When signed out, Admin is brought back to the starting page. 
+
+![](https://user-images.githubusercontent.com/34804400/50555808-64ae7900-0c9f-11e9-87e4-3aa8965f236a.gif)
+
+
+----------------------------------------------------------STUDENT-------------------------------------------------------------
+
+Students can register or withdraw from courses. 
+
+There are multiple students for this program, and students must register before signing in. 
+
+![](https://user-images.githubusercontent.com/34804400/50555814-7c85fd00-0c9f-11e9-9559-835fe441c1bf.gif)
+
+
+Student Methods: 
+
+1) View available courses (courses that are not full) - Student:
+
+![](https://user-images.githubusercontent.com/34804400/50555809-6a0bc380-0c9f-11e9-93ff-1726894751f4.gif)
+
+
+2) View courses student is currently enrolled in - Student:
+
+![](https://user-images.githubusercontent.com/34804400/50555811-709a3b00-0c9f-11e9-8413-3e22235af6d9.gif)
+
+
+3) Register into a course - Student:
+
+![](https://user-images.githubusercontent.com/34804400/50555813-7728b280-0c9f-11e9-9386-00d2404f731e.gif)
+
+
+4) Withdraw from a course - Student: 
+
+![](https://user-images.githubusercontent.com/34804400/50555818-87409200-0c9f-11e9-8b8a-7a27924feebe.gif)
+
+
+When signed out, Student is brought back to the starting page. 
+
+![](https://user-images.githubusercontent.com/34804400/50555817-814ab100-0c9f-11e9-8ca1-7cd8af907517.gif)
+
+------------------------------------------------------------------------------------------------------------------------------
