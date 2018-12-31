@@ -81,3 +81,11 @@ When signed out, Student is brought back to the starting page.
 ![](https://user-images.githubusercontent.com/34804400/50555817-814ab100-0c9f-11e9-8ca1-7cd8af907517.gif)
 
 -------------------------------------------------------------------------------------------------------------------------
+
+Procedure: 
+
+This program makes use of serialization. It first reads in the csv file "MyUniversityCourses.csv" which holds a list of already existing programming courses at New York University. 
+
+It lets the user make changes to the data read from the csv file and serialize it into the file "Courses.ser." 
+
+It also lets the user make changes to and serialize list of students into the file "Students.ser." 
