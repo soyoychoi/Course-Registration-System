@@ -93,7 +93,14 @@ It also lets the user make changes to and serialize list of students into the fi
 
 Procedure: 
 
-Add csv file to the same folder to execute the java files properly. 
+Make sure csv file is in the folder that holds the java files to execute the program properly. 
+
+1) Run //javac User.java on terminal
+2) Run //javac Course.java on terminal 
+3) Run //javac CourseRegistration.java on terminal 
+4) Run //java CourseRegistration
+
+
 
 Run CourseRegistration.java file first. This is the only file with a main method. 
 
