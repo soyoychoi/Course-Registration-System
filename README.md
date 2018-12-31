@@ -45,7 +45,7 @@ When signed out, Admin is brought back to the starting page.
 ![](https://user-images.githubusercontent.com/34804400/50555808-64ae7900-0c9f-11e9-87e4-3aa8965f236a.gif)
 
 
-----------------------------------------------------------STUDENT-------------------------------------------------------
+----------------------------------------------------------STUDENT------------------------------------------------------
 
 Students can register or withdraw from courses. 
 
