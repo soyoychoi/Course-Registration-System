@@ -9,7 +9,7 @@ Motivation: The program makes it easy for users to view and interact with course
 
 Explanation & Demo: There are two types of users - Admin and Student. 
 
-----------------------------------------------------------ADMIN---------------------------------------------------------------
+----------------------------------------------------------ADMIN---------------------------------------------------------
 
 Admin can create, delete, and edit courses, and register a student into a course. 
 
@@ -45,7 +45,7 @@ When signed out, Admin is brought back to the starting page.
 ![](https://user-images.githubusercontent.com/34804400/50555808-64ae7900-0c9f-11e9-87e4-3aa8965f236a.gif)
 
 
-----------------------------------------------------------STUDENT-------------------------------------------------------------
+----------------------------------------------------------STUDENT-------------------------------------------------------
 
 Students can register or withdraw from courses. 
 
@@ -80,4 +80,4 @@ When signed out, Student is brought back to the starting page.
 
 ![](https://user-images.githubusercontent.com/34804400/50555817-814ab100-0c9f-11e9-8ca1-7cd8af907517.gif)
 
-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
